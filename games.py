@@ -134,7 +134,6 @@ penup()
 goto(-175, -150)
 pendown()
 write("I Love Myself", font=style,move=False,align="left")
-
 done()
 
 
