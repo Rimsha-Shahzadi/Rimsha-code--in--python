@@ -91,40 +91,39 @@
 # r4 = complex(9,0)
 # print(type(r4))
 
-s1 = ["red", "green", "yellow", 100, 200, 300]
-print(s1)
-print(type(s1))
+# s1 = ["red", "green", "yellow", 100, 200, 300]
+# print(s1)
+# print(type(s1))
 
-s2 = {"red", "green", "yellow", 100, 200, 300}
-print(s2)
-print(type(s2))
+# s2 = {"red", "green", "yellow", 100, 200, 300}
+# print(s2)
+# print(type(s2))
 
-t = ("red", "green", "yellow", 100, 200, 300)
-print(t)
-print(type(t))
+# t = ("red", "green", "yellow", 100, 200, 300)
+# print(t)
+# print(type(t))
 
-u = {"name": "Rimsha", "age": 23, "city": "Shahkot"}
-print(u)
-print(type(u))
+# u = {"name": "Rimsha", "age": 23, "city": "Shahkot"}
+# print(u)
+# print(type(u))
 
-v = True
-print(v)
-print(type(v))
+# v = True
+# print(v)
+# print(type(v))
 
-v1 = False
-print(v1)
-print(type(v1))
+# v1 = False
+# print(v1)
+# print(type(v1))
 
-byte1 = b"Rimsha" 
-print(byte1)
-print(type(byte1))
+# byte1 = b"Rimsha" 
+# print(byte1)
+# print(type(byte1))
 
+# assignment `1`
 
-
-
-
-
-
-
+name = "Rimsha"
+age = 23
+city =  "Shahkot"
+print(f"My Name is {name} from {city} & I'm {age}")
 
 
