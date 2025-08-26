@@ -154,9 +154,12 @@
 # print(f" The resulf of {student_name} is {int(percentage)}%. Well done!")
 
 # Asiignment 2 Part 2
+# print("Hello World")
+# print('Rimsha Shahzadi')
+# print("I'm a good girl")
+# print('''I want to be a "Python" developer''')
 
-
-
+print("Python is fun.\n\"PIAIC\"  I want to become a 'full stack' developer 'I'm a student of PIAIC")
 
 
 
@@ -177,11 +180,31 @@
 # print(a+c)
 # print(a+int(b))
 
-first = 24
-first1 = str(first)
-print(type(first1))
+# first = 24
+# first1 = str(first)
+# print(type(first1))
 
-f1 = 22.0
-f2 = int(f1)
-print(type(f2))
+# f1 = 22.0
+# f2 = int(f1)
+# print(type(f2))
 
+# num = 500
+# print(type(float(num)))
+
+# num1 = 100
+# num2 = 50.0
+# num3 = num1+num2
+# print(num3)
+# print(type(num3))
+
+# int_num = 100
+# str_num = str(int_num)
+# print(type(str_num))
+
+# a0 = bool(0)
+# print(a0)
+# print(type(a0))
+
+# a1 = bool(1)
+# print(a1)
+# print(type(a1))
