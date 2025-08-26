@@ -181,3 +181,7 @@ first = 24
 first1 = str(first)
 print(type(first1))
 
+f1 = 22.0
+f2 = int(f1)
+print(type(f2))
+
