@@ -210,8 +210,9 @@
 
 # a = input()
 # print(int(a) + int(a))
+
 name = input("Enetr your name:")
 print(f"Welcome {name} to the Pyhton world")
 age = input("Enter your age:")
 print(f"Ohh you are just {age}!")
-print(f"Ohh you are just {int(age)}!")
+print(f"You will be {int(age)+1} next year!")
