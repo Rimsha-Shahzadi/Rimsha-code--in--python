@@ -121,9 +121,63 @@
 
 # assignment `1`
 
-name = "Rimsha"
-age = 23
-city =  "Shahkot"
-print(f"My Name is {name} from {city} & I'm {age}")
+# name = "Rimsha"
+# age = 23
+# city =  "Shahkot"
+# print(f"My Name is {name} from {city} & I'm {age}")
 
+
+# r = input()
+# print(int(r)+int(r))
+# print(r+r)
+
+# r = input("Enter your name: ")
+# print(f"Welcome {r} to the python world")
+
+# s = input("Enter your age: ")
+# print(f"OHH you are just {s} years old!")
+# print(f"So next year you will be {int(s) +1}!")
+
+
+
+# q = input("Enter first number:") 
+# r = input("Enter second number:")
+# print(f"Sum of {q} & {r} is {int(q)+int(r)}")
+
+# Assignment 2  Part 1 
+# print("Percentage calculator ")
+# student_name = input("Enter your name: ")
+# english_marks = int(input("Enter english marks: "))
+# maths_marks = int(input("Enter maths marks: "))
+# science_marks = int(input("Enter science marks: "))
+# percentage = (((english_marks) + (maths_marks) + (science_marks)) / 300) *100
+# print(f" The resulf of {student_name} is {int(percentage)}%. Well done!")
+
+# Asiignment 2 Part 2
+
+
+
+
+
+
+
+
+
+
+# casting in python
+
+# a = 1
+# print(type(a))
+
+# b = "5"
+# print(type(b))
+
+# c = int(b)
+# print(type(c))
+# print(a+c)
+# print(a+int(b))
+
+first = 24
+first1 = str(first)
+print(type(first1))
 
