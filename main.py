@@ -161,12 +161,6 @@
 
 print("Python is fun.\n\"PIAIC\"  I want to become a 'full stack' developer 'I'm a student of PIAIC")
 
-
-
-
-
-
-
 # casting in python
 
 # a = 1
