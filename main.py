@@ -159,7 +159,12 @@
 # print("I'm a good girl")
 # print('''I want to be a "Python" developer''')
 
-print("Python is fun.\n\"PIAIC\"  I want to become a 'full stack' developer 'I'm a student of PIAIC")
+# print("Python is fun.\n\"PIAIC\"  I want to become a 'full stack' developer 'I'm a student of PIAIC")
+# name = "Rimsha"
+# age = 24
+# city = "Shahkot"
+# print("My anme is", name, "from", city, "& I'm", age)
+# print(f"My name is {name} I'm from {city} and I'm {age} years old")
 
 # casting in python
 
