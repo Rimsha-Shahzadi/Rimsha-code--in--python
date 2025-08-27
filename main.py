@@ -217,7 +217,14 @@
 # print(f"Ohh you are just {age}!")
 # print(f"You will be {int(age)+1} next year!")
 
-from math import pi  
-radius = float(input("Enter the radius of circle: "))
-area = pi * (radius ** 2)
-print(f"The area of circle is {area}")
+# from math import pi  
+# radius = float(input("Enter the radius of circle: "))
+# area = pi * (radius ** 2)
+# print(f"The area of circle is {area}")
+
+print("Hello", end=" ")
+print("Rimsha")
+name = " Rimsha" 
+age = 24
+print(name,\
+     age)
