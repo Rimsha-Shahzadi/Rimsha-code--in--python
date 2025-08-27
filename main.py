@@ -222,9 +222,57 @@
 # area = pi * (radius ** 2)
 # print(f"The area of circle is {area}")
 
-print("Hello", end=" ")
-print("Rimsha")
-name = " Rimsha" 
-age = 24
-print(name,\
-     age)
+# print("Hello", end=" ")
+# print("Rimsha")
+# name = " Rimsha" 
+# age = 24
+# print(name,age)
+
+# my_friends = ["Rimsha", "Jannat", "Noor","Eman"]
+# my_friends.append("Python")
+# my_friends.remove("Eman")
+# print(my_friends)
+# name = "Rimsha"
+# print(len(name))
+
+# my_tuple = ("Rimsha", "Jannat", "Noor","Eman")
+# new = my_tuple[3]
+# print(new)
+# print(len(my_tuple))
+
+# my_tuple1 = (1,2,3,4,5)
+# new1 = my_tuple1[1]
+# print(new1)
+# print(len(my_tuple1))
+
+# menu = {}
+
+# menu["Gulaab Jaman"] = 80
+# menu["Palak Paneer"] = 750
+# menu["Pizza"] = 2500
+
+# del menu["Gulaab Jaman"]
+# menu["Palak Paneer"] = 800
+# menu["Palak Paneer"] = 750
+# price = menu["Palak Paneer"]
+# print(price)
+# print(len(menu))
+# menu.clear()
+# print(menu)
+
+# name = "Rimsha" 
+# surname= " Shahzadi"
+# print(name, "", surname) 
+
+# language = "Python"
+# first_char = language[0]
+# forth_char = language[3]
+# print(first_char, forth_char)
+
+# sentence = "I love  you Java"
+# new_sentence = sentence.replace("Java", "Pyhton")
+# print(sentence)
+# print(new_sentence)
+
+# coding = "Pyhton"
+# print(len(coding))
