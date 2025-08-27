@@ -211,8 +211,13 @@
 # a = input()
 # print(int(a) + int(a))
 
-name = input("Enetr your name:")
-print(f"Welcome {name} to the Pyhton world")
-age = input("Enter your age:")
-print(f"Ohh you are just {age}!")
-print(f"You will be {int(age)+1} next year!")
+# name = input("Enetr your name:")
+# print(f"Welcome {name} to the Pyhton world")
+# age = input("Enter your age:")
+# print(f"Ohh you are just {age}!")
+# print(f"You will be {int(age)+1} next year!")
+
+from math import pi  
+radius = float(input("Enter the radius of circle: "))
+area = pi * (radius ** 2)
+print(f"The area of circle is {area}")
