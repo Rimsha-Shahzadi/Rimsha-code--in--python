@@ -276,3 +276,46 @@
 
 # coding = "Pyhton"
 # print(len(coding))
+
+# order = input("What do you want? hot/cold coffee= ")
+# print("You ordered", order)
+
+# num_1 = input("Enter first number: ")
+# num_2 = input("Enter second number: ")
+# print(num_1 + num_2)
+# print(int(num_1) + int(num_2))
+
+# a = 20
+# b = 30
+# print(a>10 and b>10)
+# print( a<b or b<a)
+# print(not( a>10 or b>10))
+# Comparision operation
+# print(a>b)
+# print(a<b)
+# print(a==b)
+# print(a!=b)
+# print(a>=b)
+# print(a<=b)
+# Arithmatic operation
+# print(a+b)
+# print(a*b)
+# print(b/a)
+# print(b//a)
+# print(a-b)
+# print(b%a)
+
+# a = 20
+# a += 5
+# a *= 2
+# a /= 5
+# a -= 2
+# print(a)
+
+# l1 = [1,2,3]
+# l2 = [1,2,3]
+# l3 = l1
+# print(l1 is not l2)
+
+my_list=  [1,2,3,4,5]
+print(3 in my_list)
