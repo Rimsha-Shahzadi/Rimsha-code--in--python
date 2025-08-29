@@ -326,11 +326,62 @@
 # else:
 #     print("Negative")    
 
-total = int(input("Enter total shopping amount: "))
-if total >=10000:
-    print("You are eligible")
-elif total >=1 and  total <=9999:
-    print("You are not eligible")
+# total = int(input("Enter total shopping amount: "))
+# if total >=10000:
+#     print("You are eligible")
+# elif total >=1 and  total <=9999:
+#     print("You are not eligible")
 
-else:
-    print("Re-enter right amount")    
+# else:
+#     print("Re-enter right amount")    
+# a = 2
+# if a== 2:
+#     print("Two")
+# else:
+#     print("No")    
+  # While loops
+# name = input("Enter your name:")
+# x = 0
+# while x <= 10:
+#     print(name)
+#     x = x+1
+
+# x = 1
+# while x <= 10:
+#     print(x)
+#     x +=1
+#     print("end")
+
+# number = int(input("Enter your number:"))
+# x = 1
+# while x <= 10:
+#     print(f"{number} * {x} = {number * x}")
+#     x = x+ 1
+
+# For loops
+
+# for i in range(1,12,2):
+#     print(i)
+
+# m = int(input("Enter start number:"))
+# n = int(input("Enter end number:"))
+# z = n+1
+# for i in range(m,z,+1):
+    # print(m)
+    # m +=1
+
+# m = int(input("Enter start number: "))
+# n = int(input("Enter end number: "))
+
+# for i in range(m,n,-1):
+#     print(m)
+#     m -=1 
+#  
+# for i in range(1,100):
+#     if i % 3 ==0:
+#         print(i)
+
+# for i in range(1,6):
+#     for j in range(1,6):
+#         print("*", end=" ")
+#     print()  
