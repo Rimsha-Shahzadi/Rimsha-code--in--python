@@ -392,3 +392,4 @@
 # total_sub = len(student_1)
 # average= sum_of_marks / total_sub
 # print(f"Average of student_1 is", {average})
+
