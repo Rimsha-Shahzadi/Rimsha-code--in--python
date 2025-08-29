@@ -384,4 +384,11 @@
 # for i in range(1,6):
 #     for j in range(1,6):
 #         print("*", end=" ")
-#     print()  
+#     print() 
+#  
+
+# student_1 = [50,100,150]
+# sum_of_marks = sum(student_1)
+# total_sub = len(student_1)
+# average= sum_of_marks / total_sub
+# print(f"Average of student_1 is", {average})
