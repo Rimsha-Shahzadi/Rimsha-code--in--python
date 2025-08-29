@@ -317,5 +317,20 @@
 # l3 = l1
 # print(l1 is not l2)
 
-my_list=  [1,2,3,4,5]
-print(3 in my_list)
+# my_list=  [1,2,3,4,5]
+# print(3 in my_list)
+
+# number = int(input("Enter  a number:"))
+# if number <=10:
+#     print("Positive")
+# else:
+#     print("Negative")    
+
+total = int(input("Enter total shopping amount: "))
+if total >=10000:
+    print("You are eligible")
+elif total >=1 and  total <=9999:
+    print("You are not eligible")
+
+else:
+    print("Re-enter right amount")    
