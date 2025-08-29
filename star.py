@@ -31,5 +31,15 @@
 # for i in range(n,0,-1):
 #     for j in range(i,0, -1):
 #         print(j, end=" ")
-#     print()    
-
+#     print() 
+#    
+ # Question 6
+# def lines():
+#     line= int(input("Enter a number of lines:"))
+#     for i in range(1,line+1):
+#         for j in range(i):
+#             print("*", end=" ")
+        # print() 
+    # return f"The {line} lines of  triangle has been created"  
+# triangle = lines()
+# print(triangle)

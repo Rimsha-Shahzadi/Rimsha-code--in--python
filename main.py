@@ -393,3 +393,36 @@
 # average= sum_of_marks / total_sub
 # print(f"Average of student_1 is", {average})
 
+# def sum(a,b):
+#     c = a+b
+#     print("sum is", c)
+# sum(50,10) 
+# sum(100,200)   
+
+# def multi(a,b):
+#     c = a*b
+#     return f"The sum of c = {c}"
+# a = multi(100,200)
+# print(a)
+
+# def odd_eve():
+#     num = int(input("Enter a numbe to check:"))
+#     if num % 2 == 0:
+#       print("even")
+    
+#     else:
+#       print("odd") 
+#     return num
+# user = odd_eve()    
+# print(user)
+
+
+# def lines():
+#     line= int(input("Enter a number of lines:"))
+#     for i in range(1,line+1):
+#         for j in range(i):
+#             print("*", end=" ")
+#         print() 
+#     return f"The {line} lines of  triangle has been created"  
+# triangle = lines()
+# print(triangle)
