@@ -9,7 +9,7 @@
 # print("Pizza: Rs250\nPasta: Rs200\nSalad: Rs150\nBurger: Rs300\nCoffe: Rs80")
 
 # total_order = 0
-# item_1 = input("Enter the name of itam which you want to oredr: ")
+# item_1 = input("Enter the name of item which you want to oredr: ")
 # if item_1 in menu:
 #     total_order += menu[item_1] 
 #     print(f"Your item {item_1} has been added to your order.")
@@ -76,4 +76,3 @@ elif select == 5:
            avg(number1, number2))
 else:
     print("Invalid opeartion! Please select again!")    
-    
