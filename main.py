@@ -426,3 +426,56 @@
 #     return f"The {line} lines of  triangle has been created"  
 # triangle = lines()
 # print(triangle)
+
+# Question string
+# string = "I love Python"
+
+# l = len(string)
+# i = 0
+
+# while i < l:
+#     print(string[i], end= " ")
+#     i += 1
+# print()
+# i = 1
+# l = len(string)  
+# while i <= l:
+#     print(string[-i], end =" ")  
+#     i += 1
+# 
+# new question 
+# string = 'I love Python'
+
+# for i in string:
+#     print(i, end = " ")
+# print()    
+# for i in string[ : : -1]:
+#     print(i, end = " ")
+
+#  slicing
+# string = "I love Python"
+# print(string[2:5:2])
+# print("Rimsha" * 5)
+# new = "Pyhton"
+# siliced = new[0:2:1]
+# print(siliced * 5)
+# main_str= input("Enter main string: ")
+# sub_str =input("Enter sub string:")
+# if sub_str in main_str:
+#     print(f"{sub_str} is present in {main_str}")
+# else:
+#         print(f"{sub_str} is not present in {main_str}")    
+# if "Python" == "Python":
+#    print("True")
+# else:
+#    print("False")  
+#  00
+# name = " Sagar Python "
+# if name.strip()=="Sagar Python":
+#    print("True")
+# else:
+#    print("False")  
+# 01 
+# main_string = " Rimsha Shahazadi"
+# total = main_string.count("a",1, 7)
+# print(total)
