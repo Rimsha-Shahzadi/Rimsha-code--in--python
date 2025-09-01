@@ -479,3 +479,82 @@
 # main_string = " Rimsha Shahazadi"
 # total = main_string.count("a",1, 7)
 # print(total)
+
+
+# a = [1,2,3,4,5]
+# print (a)
+# a.append(6)
+# print (a)
+
+
+# a = ["Pyhton", "Java", "Langchain", 2023, 3.5,"Rimsha"]
+# print(a)
+# a[1] = "Langgraph"
+# print(a)
+
+# my_list =["Pyhton" ,"Gulab Jaman", "Palak Paneer", "Pizza"]
+# print(my_list)
+# del my_list[2]
+# print(my_list) 
+
+
+# first = ["Rimsha", "Noor", "Jannat", "Rimi"]
+# print(first)
+# first.reverse()
+# print(first)
+
+# def sum():
+#     lst = []
+#     user = int(input("Enter  how many numbers you want: "))
+#     for i in range(user):
+#         choice = int(input(f"Enter element {i} = "))
+#         lst.append(choice)  # adding the element
+#     total  = 0 
+#     for i in range(len(lst)):
+#         total = total + lst[i]   
+#     return f"totalis {total}"     
+# s = sum()
+# print(s)
+
+
+# def value():
+#     lst = []
+#     user = int(input("Enter how many no of list you want:"))
+#     for i in range(user):
+#         add = int(input(f"Enter number {i}"))
+#         lst.append(add)
+#     print(lst) 
+#     maximum = max(lst) 
+#     print("Maximum value is =", maximum)
+#     minimum = min(lst)      
+#     print(f"Minimum value is = {minimum}")
+# value()
+
+# def common():
+#     s1 = [1,2,3,4,5]
+#     s2 = [1,2,3,5,6,7,8,9]
+
+#     lst_1=set(s1)
+#     lst_2=set(s2)
+
+#     unique=lst_1.intersection(lst_2)
+#     print(unique)
+
+# common()
+
+def task():
+    tasks = []
+    print("----Welcome to the Task Management App----")
+    total_task = int(input("Enter the task yo want to add: "))
+    for i in range(1,total_task+1):
+        task_name = input("Enter task {i}= ")
+        task.append(task_name)
+    print(f"Today's tasks are\n{tasks}")  
+
+
+    
+
+
+
+
+
