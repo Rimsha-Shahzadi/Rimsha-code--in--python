@@ -572,21 +572,25 @@
 
 # start
 
-dictionary = {
-    "name": "Rimsha",
-    "age": 24,
-    "city": "Shahkot",
-    "course": "Python",
-    "password": "Rimsha123",
-    "is_logged_in": True,
-    "result" : {
-        "english": 90,
-        "maths": 95,
-        "science": 85
-    }
-}
-dictionary.clear()
-print(dictionary)
+# dictionary = {
+#     "name": "Rimsha",
+#     "age": 24,
+#     "city": "Shahkot",
+#     "course": "Python",
+#     "password": "Rimsha123",
+#     "is_logged_in": True,
+#     "result" : {
+#         "english": 90,
+#         "maths": 95,
+#         "science": 85
+#     }
+# }
+# dictionary.clear()
+# print(dictionary)
 
+# fruits = dict.fromkeys(["apple"], "fresh")
+# print(fruits)
 
+numbers = dict.fromkeys([1, 2, 3, 4, ], None)
+print(numbers)
 
