@@ -591,6 +591,6 @@
 # fruits = dict.fromkeys(["apple"], "fresh")
 # print(fruits)
 
-numbers = dict.fromkeys([1, 2, 3, 4, ], None)
+numbers = dict.fromkeys([1, 2, 3, 4, ],  "Rimsha")
 print(numbers)
 
