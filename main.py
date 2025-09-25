@@ -591,6 +591,18 @@
 # fruits = dict.fromkeys(["apple"], "fresh")
 # print(fruits)
 
-numbers = dict.fromkeys([1, 2, 3, 4, ],  "Rimsha")
-print(numbers)
+# numbers = dict.fromkeys([1, 2, 3, 4, ],  "Rimsha")
+# print(numbers)
 
+# alphabets = dict.fromkeys(["Hello"], 0)
+# print(alphabets)
+
+# abc = dict.fromkeys(["a", "b", "c"], 100)
+# print(abc)
+
+names = {
+    "name": "Rimsha",
+    "age": 24,
+    "email": "rimsha@.com"
+}
+print(names.get("name"))
