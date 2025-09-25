@@ -607,9 +607,25 @@
 # }
 # print(names.get("name"))
 
-fruits = ["Apple", "Banana", "Mango"]
-for i in fruits:
+# fruits = ["Apple", "Banana", "Mango"]
+# for i in fruits:
     # print(i.lower())
 
     
-    print(i.upper())
+    # print(i.upper())
+# for i in range(101):
+    # print("Rimsha")
+
+# for a in "Rimsha":
+#     print(a)
+
+# students = ["Rimsha", "Jannat", "Noor"]
+# for a in students:
+#     if a == "Noor":
+#         break
+#     print(a)
+
+table = int(input("Enter a number to print a table: "))
+# print(f"{table} x 1 = {table*1}")
+for i in range(1,11):
+    print(f"{table} x {i} = {table*i}")
