@@ -637,8 +637,12 @@
 # name1 = students[-1]
 # print(name1)
 
-thistuple = ("Apple", "Banana", "Cherry", "Orange", "Kiwi", "Mango")
-# new_tuple= list(thistuple)
-Rim = ("Pineapple"),
-thistuple += Rim
-print(thistuple)
+# thistuple = ("Apple", "Banana", "Cherry", "Orange", "Kiwi", "Mango")
+# # new_tuple= list(thistuple)
+# Rim = ("Pineapple"),
+# thistuple += Rim
+# print(thistuple)
+
+age = int(input("Enter your age: "))
+if age == 18:
+    print(age)
