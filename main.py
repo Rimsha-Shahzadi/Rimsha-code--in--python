@@ -600,9 +600,13 @@
 # abc = dict.fromkeys(["a", "b", "c"], 100)
 # print(abc)
 
-names = {
-    "name": "Rimsha",
-    "age": 24,
-    "email": "rimsha@.com"
-}
-print(names.get("name"))
+# names = {
+#     "name": "Rimsha",
+#     "age": 24,
+#     "email": "rimsha@.com"
+# }
+# print(names.get("name"))
+
+fruits = ["Apple", "Banana", "Mango"]
+for i in fruits:
+    print(i.lower())
