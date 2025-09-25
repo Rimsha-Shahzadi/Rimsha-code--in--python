@@ -625,7 +625,20 @@
 #         break
 #     print(a)
 
-table = int(input("Enter a number to print a table: "))
-# print(f"{table} x 1 = {table*1}")
-for i in range(1,11):
-    print(f"{table} x {i} = {table*i}")
+# table = int(input("Enter a number to print a table: "))
+# # print(f"{table} x 1 = {table*1}")
+# for i in range(1,11):
+#     print(f"{table} x {i} = {table*i}")
+
+# students = ("Rimsha", "Noor","Jannat")
+# name =students[1]
+# print(name)
+
+# name1 = students[-1]
+# print(name1)
+
+thistuple = ("Apple", "Banana", "Cherry", "Orange", "Kiwi", "Mango")
+# new_tuple= list(thistuple)
+Rim = ("Pineapple"),
+thistuple += Rim
+print(thistuple)
