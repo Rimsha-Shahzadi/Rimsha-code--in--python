@@ -609,4 +609,7 @@
 
 fruits = ["Apple", "Banana", "Mango"]
 for i in fruits:
-    print(i.lower())
+    # print(i.lower())
+
+    
+    print(i.upper())
