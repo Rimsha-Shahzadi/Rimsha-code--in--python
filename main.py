@@ -1,26 +1,26 @@
 # print("Hello Rimsha")
 # print(8+8)
 # # "Hello"[1:4]
-# import time
-# timestamp =time.strftime('%H:%M:%S')
-# print(timestamp)
-# timestamp =time.strftime('%H')
-# print(timestamp)
+import time
+timestamp =time.strftime('%H:%M:%S')
+print(timestamp)
+timestamp =time.strftime('%H')
+print(timestamp)
 
-# timestamp =time.strftime('%M')
-# print(timestamp)
+timestamp =time.strftime('%M')
+print(timestamp)
 
-# timestamp =time.strftime('%S')
-# print(timestamp)
-# import time
-# timestamp =time.strftime('Good Morning:Good Afternoon:Good Night:')
-# print(timestamp)
-# timestamp =time.strftime('Good Morning Sir')
-# print(timestamp)
-# timestamp =time.strftime('Good Afternoon Sir')
-# print(timestamp)
-# timestamp =time.strftime('Good Night Sir')
-# print(timestamp)
+timestamp =time.strftime('%S')
+print(timestamp)
+import time
+timestamp =time.strftime('Good Morning:Good Afternoon:Good Night:')
+print(timestamp)
+timestamp =time.strftime('Good Morning Sir')
+print(timestamp)
+timestamp =time.strftime('Good Afternoon Sir')
+print(timestamp)
+timestamp =time.strftime('Good Night Sir')
+print(timestamp)
 
 
 # age =int(input("Enter your age: "))
@@ -151,7 +151,7 @@
 # maths_marks = int(input("Enter maths marks: "))
 # science_marks = int(input("Enter science marks: "))
 # percentage = (((english_marks) + (maths_marks) + (science_marks)) / 300) *100
-# print(f" The resulf of {student_name} is {int(percentage)}%. Well done!")
+# print(f" The result of {student_name} is {int(percentage)}%. Well done!")
 
 # Asiignment 2 Part 2
 # print("Hello World")
@@ -643,8 +643,21 @@
 # thistuple += Rim
 # print(thistuple)
 
-age = int(input("Enter your age: "))
-if age > 18:
-    print("You can vote")
-else:
-    print("You can't vote")    
+# age = int(input("Enter your age: "))
+# if age >= 18:
+#     print("You can vote")
+# else:
+#     print("You can't vote")    
+
+# age = int(input("Enter your age: "))
+# if age <=15:
+#     print("You go to America")
+# else:
+#     print("You can't go")   
+# # 
+# name = "Rimsha ,Jannat, Noor"
+# print(name.split(","))
+
+# print(name.strip())
+# print(type(name))
+# print(id(name))
