@@ -667,3 +667,4 @@ while name == "":
     print("You didnot type anything")
     name = input("Enter ypur name: ")
 print(f"Your name is {name}")
+
