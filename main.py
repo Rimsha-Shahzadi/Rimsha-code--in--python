@@ -661,3 +661,9 @@
 # print(name.strip())
 # print(type(name))
 # print(id(name))
+
+name = input("Enter your name: ")
+while name == "":
+    print("You didnot type anything")
+    name = input("Enter ypur name: ")
+print(f"Your name is {name}")
