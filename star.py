@@ -44,9 +44,18 @@
 # triangle = lines()
 # print(triangle)
 
+#Practice Problem 1
+# num = int(input("Enter a number to print a table:"))
 
-num = int(input("Enter a number to print a table:"))
-
-for i in range(1,11):
-    print(f"{num} * {i} = {num*i}")
+# for i in range(1,11):
+#     print(f"{num} * {i} = {num*i}")
   
+def lines():
+    line = int(input("Enter a number of lines:"))
+    for i in range(1,line+1):
+        for j in range(i):
+            print("*", end = " ")
+        print()
+    return f"The {line} lines of triangle has beeen created"
+triangle = lines()
+print(triangle)
