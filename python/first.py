@@ -64,3 +64,11 @@ print(type(name))
 print(id(name))
 print(dir(name))
 print([i for i in dir(name) if "__" not in i])
+
+
+name: any = "Rimsha"
+print(name)
+print(type(name))
+print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
