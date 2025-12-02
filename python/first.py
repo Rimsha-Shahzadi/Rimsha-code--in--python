@@ -22,28 +22,45 @@ name: str = "Rimsha Shahzadi"
 print(name)
 print(type(name))
 print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
 
 name: int = 200
 print(name)
 print(type(name))
-print(id(name))  
+print(id(name))
+print(dir(name))  
+print([i for i in dir(name) if "__" not in i])
+
+
 
 name: float = 20.5
 print(name)
 print(type(name))
 print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
+
 
 name: bool = True
 print(name)
 print(type(name))
 print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
+
 
 name: list[str] = ["Rimsha", "Jannat", "Ismail"]
 print(name)
 print(type(name))
 print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
+
 
 name: tuple[str, int, float] = ("Rimsha", 25, 25.5)
 print(name)
 print(type(name))
 print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
