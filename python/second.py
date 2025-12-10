@@ -106,6 +106,15 @@
 # name1 : str = re.sub(' {2,100}', ' ', name).strip()
 # print(name1)
 
-name : str = "   Rimsha     Shahzadi    "
-print(name)
-print(name.title())
+# name : str = "Rimsha Shahzadi"
+# print(name)
+# print(name.title())
+
+# name : str = "I Love Python"
+# print(name)
+# print(name.upper())
+# print(name.lower())
+
+print("Name:\t\tRimsha Shahzadi")
+print("Name:\nRimsha Shahzadi")
+print("Name:\bRimsha Shahzadi")
