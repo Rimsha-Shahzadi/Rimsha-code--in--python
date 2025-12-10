@@ -11,7 +11,7 @@
 # print(message)
 # name: str = "Rimsha Shahzadi"
 # fname: str = "Muhammad Arif"
-# educaton: str = "Graduation"
+# education: str = "Graduation"
 # age : int = 24
 
 # card : str = "PIAIC Student Card\nStudent Name:" + name +\
@@ -36,4 +36,44 @@
 # print(card)
 
 #F-STRING Python
+# name: str = "Rimsha Shahzadi"
+# fname: str = "Muhammad Arif"
+# education: str = "Graduation"
+# age : int = 24
 
+# card : str = f"""
+# PIAIC Student Card
+# Student Name: {name}
+# Father's Name:  {fname}
+# Age: {age}
+# Education: {education}
+
+# """
+# print(card)
+ #Jinja style
+# name: str = "Rimsha Shahzadi"
+# """
+# Student Name {{name}}
+# """
+# print(name)
+
+# [i for i in dir(str) if "__" not in i]
+name: str = "Rimsha Shahzadi"
+fname: str = "Muhammad Arif"
+education: str = "Graduation"
+age : int = 24
+card : str = """
+PIAIC Student Card
+Student Name: {0}
+Father's Name:  {1}
+Age: {3}
+Education: {2}
+""".format(name, fname, education, age)
+print(card)
+# name : str = "Rimsha Shahzadi"
+# print(name.capitalize())
+# print(name.lower())
+
+# a = 5
+# b = 10
+# print("pakistan valuea ={} and value b ={}".format(a,b))
