@@ -57,3 +57,6 @@ else:
 # select = int(input("Select an operation(1,2,3,4,5): "))
 # number1 = int(input("Enter first number: "))
 # number2 = int(input("Enter second number: "))
+# if select == 1:
+    # print(number1, "+",number2,"=",\
+        # add(number1+number2))
