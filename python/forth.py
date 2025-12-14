@@ -43,6 +43,7 @@
 # names1 = names.sort()
 # print(names)
 
-# rimsha = ("Assalam U Alaikum, I am Rimsha")
-# print(rimsha)
+rimsha = ("Assalam U Alaikum, I am Rimsha")
+print(rimsha)
+print(len(rimsha))
 
