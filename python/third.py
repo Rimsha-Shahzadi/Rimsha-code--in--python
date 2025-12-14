@@ -146,8 +146,8 @@
 # print(*data)
 
 # print("Rimsha" *5)
-a : int = 50
-if (a < (b := a+20)):
-    print(b)
-else:
-    print("else is working") 
+# a : int = 50
+# if (a < (b := a+20)):
+#     print(b)
+# else:
+#     print("else is working") 
