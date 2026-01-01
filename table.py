@@ -10,3 +10,6 @@ for i in range(1,11):
 # stars = 5
 # for i in range(1, stars+1):
 #     print(" *" * i)
+
+name : list[str] = ("Rimsha", "Jannat","Ismail")
+print(name)
