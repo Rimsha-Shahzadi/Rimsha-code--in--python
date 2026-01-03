@@ -78,3 +78,7 @@ print("Please a select an opertaor: /n" \
     "3. Multiply/n" \
     "4. Divide/n" \
     "5. Average/n" )
+
+select = input("Please select an operator(1,2,3,4,5): ")
+number1 = int(input("Enter first number: "))
+number2 = int(input("Enter second number: "))
