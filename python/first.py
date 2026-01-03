@@ -72,3 +72,7 @@ print(type(name))
 print(id(name))
 print(dir(name))
 print([i for i in dir(name) if "__" not in i])
+
+stars = 10
+for i in range(1,stars+1):
+    print(" *" * i)
