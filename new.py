@@ -16,3 +16,9 @@ for i in range(1, star+1):
     print(" *" * i)
 for i in range(star-1,0 ,-1):
     print(" *" * i)
+calender = input("Enter a year:")
+print(eval(calender))
+
+for i in range(1,11):
+    for j in range(1,11):
+        print(f'{i} * {j} = {i*j}',end='\t')
