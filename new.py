@@ -24,16 +24,19 @@
 #         print(f'{i} * {j} = {i*j}',end='\t')
 
 
-from turtle import *
-from datetime import datetime
-bgcolor("white")
-hideturtle()
-penup()
+# from turtle import *
+# from datetime import datetime
+# bgcolor("white")
+# hideturtle()
+# penup()
 
-today = datetime.now().strftime("%Y-%m-%d")
-goto(0, 0)
-write(f"Today's Date: {today}",
-        align="center",
-        font=("Arial", 18, "bold"))
+# today = datetime.now().strftime("%Y-%m-%d")
+# goto(0, 0)
+# write(f"Today's Date: {today}",
+#         align="center",
+#         font=("Arial", 18, "bold"))
 
-done()
+# done()
+
+# import calender
+# print(calender.calendar(2026))
