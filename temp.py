@@ -8,5 +8,7 @@
 # else:
 #     print("Invsalid input try again: ")
 
-
+star = 3
+for i in range(1,star+1):
+    print("* " * i)
 
