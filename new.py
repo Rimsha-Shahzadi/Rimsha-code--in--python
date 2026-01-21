@@ -40,3 +40,9 @@
 
 # import calender
 # print(calender.calendar(2026))
+
+
+import calendar
+print(calendar.calendar(2026))
+# calculator = input("Enetr a number: ")
+# print(eval(calculator))
