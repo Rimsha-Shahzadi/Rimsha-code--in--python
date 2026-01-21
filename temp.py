@@ -13,3 +13,7 @@ for i in range(1,star+1):
     print("* " * i)
 calculator = input("Enter a number:")
 print(eval(calculator))
+
+table = input("Enter a number to print a table:  ")
+for i in range(1,11):
+    print(f"{table} * {i} = {table*i}")
