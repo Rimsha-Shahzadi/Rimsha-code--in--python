@@ -42,7 +42,13 @@
 # print(calender.calendar(2026))
 
 
-import calendar
-print(calendar.calendar(2026))
+# import calendar
+# print(calendar.calendar(2026))
 # calculator = input("Enetr a number: ")
 # print(eval(calculator))
+name: str = "Rimsha Shahzadi"
+print(name)
+print(type(name))
+print(id(name))
+print(dir(name))
+print([i for i in dir(name) if "__" not in i])
