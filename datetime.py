@@ -32,3 +32,6 @@
 #       t.update()
 #       t.hideturtle()
 #       t.done()
+import calendar
+import datetime
+print(calendar.calendar(2026))

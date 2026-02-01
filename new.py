@@ -85,5 +85,7 @@
 # print(f"\n Your age is: ")
 # print(f"Your Age is {year} years, {month} months, and {day} days.")
 
-calculator = input("Enter a number: ")
-print(eval(calculator))
+# calculator = input("Enter a number: ")
+# print(eval(calculator))
+import calendar
+print(calendar.calendar(2026))
