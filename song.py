@@ -11,3 +11,9 @@ for i in Song:
     sys.stdout.write(i)
     sys.stdout.flush()
     time.sleep(0.2)
+import sys, time
+Song = "\nAy Dil Hai Mushkil\n Jb Jb Tum Ko Dekhun "
+for i in Song:
+    sys.stdout.write(i)
+    sys.stdout.flush()
+    time.sleep(0.2)
