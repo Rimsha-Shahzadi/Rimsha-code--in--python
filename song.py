@@ -19,8 +19,14 @@
 #     time.sleep(0.2)
 # calculator = input("Enter a  number:")
 # print(eval(calculator))
+# import sys, time
+# Naat = "\nTajdar-e-Haram\n Ho Nigah-e-Karam"
+# for i in Naat:
+#     sys.stdout.write(i)
+#     sys.stdout.flush()
+#     time.sleep(0.2)
 import sys, time
-Naat = "\nTajdar-e-Haram\n Ho Nigah-e-Karam"
+Naat = "\nMola Mera V Ghar Hove \nUty Arman Ki Than Hovr"
 for i in Naat:
     sys.stdout.write(i)
     sys.stdout.flush()
