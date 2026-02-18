@@ -31,12 +31,18 @@
 #     sys.stdout.write(i)
 #     sys.stdout.flush()
 #     time.sleep(0.2)
-import sys, time
-Naat = "\nMain B Rozy Rakhun Gha \n Ya Allah Taufeeq Dy"
-for i in Naat:
-    sys.stdout.write(i)
-    sys.stdout.flush()
-    time.sleep(0.2)
+# import sys, time
+# Naat = "\nMain B Rozy Rakhun Gha \n Ya Allah Taufeeq Dy"
+# for i in Naat:
+#     sys.stdout.write(i)
+#     sys.stdout.flush()
+#     time.sleep(0.2)
 
 # calculator = input("Enter a number: ")
 # print(eval(calculator))
+
+
+from art import text2art
+text = input("Enter Your Text: ")
+art = text2art(text)
+print(art)
