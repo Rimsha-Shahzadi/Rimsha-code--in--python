@@ -42,7 +42,17 @@
 # print(eval(calculator))
 
 
-from art import text2art
-text = input("Enter Your Text: ")
-art = text2art(text)
-print(art)
+# from art import text2art
+# text = input("Enter Your Text: ")
+# art = text2art(text)
+# print(art)
+
+import pyjokes as pj
+print("="*10)
+print("Pyhton Jokes Generator")
+print("="*10)
+
+while True:
+    print(pj.get_joke())
+    input("press enter to continue..")
+    print("-"*10)
