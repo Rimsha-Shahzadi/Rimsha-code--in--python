@@ -47,12 +47,17 @@
 # art = text2art(text)
 # print(art)
 
-import pyjokes as pj
-print("="*10)
-print("Pyhton Jokes Generator")
-print("="*10)
+# print("="*10)
 
-while True:
-    print(pj.get_joke())
-    input("press enter to continue..")
-    print("-"*10)
+# while True:
+#     print(pj.get_joke())
+#     input("press enter to continue..")
+#     print("-"*10)
+
+
+import sys, time
+Naat = "\nAb to bas ayk hi dun hai\n k Madina dekhun"
+for i in Naat:
+    sys.stdout.write(i)
+    sys.stdout.flush()
+    time.sleep(2.0)
