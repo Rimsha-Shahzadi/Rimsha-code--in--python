@@ -60,4 +60,4 @@ Naat = "\nAb to bas ayk hi dun hai\n k Madina dekhun"
 for i in Naat:
     sys.stdout.write(i)
     sys.stdout.flush()
-    time.sleep(2.0)
+    time.sleep(1.0)
