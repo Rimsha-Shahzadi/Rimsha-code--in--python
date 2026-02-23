@@ -55,9 +55,12 @@
 #     print("-"*10)
 
 
-import sys, time
-Naat = "\nAb to bas ayk hi dun hai\n k Madina dekhun"
-for i in Naat:
-    sys.stdout.write(i)
-    sys.stdout.flush()
-    time.sleep(1.0)
+# import sys, time
+# Naat = "\nAb to bas ayk hi dun hai\n k Madina dekhun"
+# for i in Naat:
+#     sys.stdout.write(i)
+#     sys.stdout.flush()
+#     time.sleep(1.0)
+
+calculator = input("Enter a number:")
+print(eval(calculator))
