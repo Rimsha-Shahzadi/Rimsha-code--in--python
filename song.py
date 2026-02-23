@@ -62,5 +62,7 @@
 #     sys.stdout.flush()
 #     time.sleep(1.0)
 
-calculator = input("Enter a number:")
-print(eval(calculator))
+# calculator = input("Enter a number:")
+# print(eval(calculator))
+
+
