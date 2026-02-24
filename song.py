@@ -66,3 +66,5 @@
 # print(eval(calculator))
 
 
+calculator = input("Enter a number :")
+print(eval(calculator))
