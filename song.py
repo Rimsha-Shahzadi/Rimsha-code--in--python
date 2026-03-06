@@ -77,4 +77,5 @@ for i in Naat:
     time.sleep(0.2)
 
 calculator = input("Enter a number:")  
-print(eval(calculator))  
+print(eval(calculator))
+print("Hello")  
