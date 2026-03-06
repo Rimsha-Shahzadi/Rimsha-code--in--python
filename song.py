@@ -75,3 +75,6 @@ for i in Naat:
     sys.stdout.write(i)
     sys.stdout.flush()
     time.sleep(0.2)
+
+calculator = input("Enter a number:")  
+print(eval(calculator))  
