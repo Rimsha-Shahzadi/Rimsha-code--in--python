@@ -80,4 +80,8 @@
 # print(eval(calculator))
 # print("Hello")
 # 
-print("Rimsha,Jannat")  
+# print("Rimsha,Jannat")  
+
+stars = 5 
+for i in range(stars):
+    print(" * " * stars)
