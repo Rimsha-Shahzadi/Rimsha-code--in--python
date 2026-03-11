@@ -82,6 +82,6 @@
 # 
 # print("Rimsha,Jannat")  
 
-stars = 5 
-for i in range(stars):
-    print(" * " * stars)
+n = 5 
+for i in range(0, n+1):
+    print(" * " * i)
