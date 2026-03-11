@@ -69,13 +69,15 @@
 # calculator = input("Enter a number :")
 # print(eval(calculator))
 
-import sys, time
-Naat = "\nAb to bas ayk hi dun hai\n k Madina dekhun"
-for i in Naat:
-    sys.stdout.write(i)
-    sys.stdout.flush()
-    time.sleep(0.2)
+# import sys, time
+# Naat = "\nAb to bas ayk hi dun hai\n k Madina dekhun"
+# for i in Naat:
+#     sys.stdout.write(i)
+#     sys.stdout.flush()
+#     time.sleep(0.2)
 
-calculator = input("Enter a number:")  
-print(eval(calculator))
-print("Hello")  
+# calculator = input("Enter a number:")  
+# print(eval(calculator))
+# print("Hello")
+# 
+print("Rimsha,Jannat")  
