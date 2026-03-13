@@ -86,6 +86,9 @@
 # for i in range(0, n+1):
 #     print(" * " * i)
 
-import sqlite3 as sql
-conn = sql.connect("Mydatabase.db")
-print("Database created successfully")
+# import sqlite3 as sql
+# conn = sql.connect("Mydatabase.db")
+# print("Database created successfully")
+stars= 3
+for i in range(0,stars+1):
+    print(" *" *i)
