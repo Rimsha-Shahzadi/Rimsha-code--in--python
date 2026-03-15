@@ -89,6 +89,10 @@
 # import sqlite3 as sql
 # conn = sql.connect("Mydatabase.db")
 # print("Database created successfully")
-stars= 3
-for i in range(0,stars+1):
-    print(" *" *i)
+# stars= 3
+# for i in range(0,stars+1):
+#     print(" *" *i)
+
+
+calculator = input("Enter a number:")
+print(eval(calculator))
