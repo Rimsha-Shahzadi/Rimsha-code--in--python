@@ -96,3 +96,7 @@
 
 calculator = input("Enter a number:")
 print(eval(calculator))
+
+stars = 3
+for i in range(0,stars+1):
+    print(" *" *i)
