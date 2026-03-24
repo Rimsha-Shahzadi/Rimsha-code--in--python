@@ -107,3 +107,6 @@ for i in range(0,stars+1):
 
 calculator = input("Enter a number")
 print(eval(calculator))
+
+# calculator = input("Enter a number")
+# print(eval(calculator))
