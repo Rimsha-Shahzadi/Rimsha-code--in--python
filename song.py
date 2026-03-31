@@ -114,6 +114,11 @@ print(eval(calculator))
 calculator = input("Enter a number")
 print(eval(calculator))
 
-stars = 3
+# stars = 3
+# for i in range(0,stars+1):
+
+#     print(" *" *i)
+
+stars = 5
 for i in range(0,stars+1):
     print(" *" *i)
