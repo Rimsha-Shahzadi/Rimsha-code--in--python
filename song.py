@@ -123,6 +123,10 @@ stars = 5
 for i in range(0,stars+1):
     print(" *" *i)
 
-table = int(input("Enter a number:")) 
+# table = int(input("Enter a number:")) 
+# for i in range(1,11):
+#     print(f"{table} x {i} = {table*i}")   
+
+table = int(input("Enter a number:"))
 for i in range(1,11):
-    print(f"{table} x {i} = {table*i}")   
+    print(f"{table} x {i} ={table*i}")
