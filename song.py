@@ -142,3 +142,8 @@
 # stars = 6
 # for i in range(0,stars+1):
 #     print(" *" *i)
+
+
+stars = 10
+for i in range(0,stars+1):
+    print(" *" *i)
