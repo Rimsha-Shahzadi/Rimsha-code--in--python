@@ -147,3 +147,11 @@
 stars = 10
 for i in range(0,stars+1):
     print(" *" *i)
+
+stars = 8
+for i in range(0,stars+1):
+    print(" *" *i)
+
+stars = 9
+for i in range(0,stars+1):
+    print(" *" *i)
