@@ -152,6 +152,10 @@ stars = 8
 for i in range(0,stars+1):
     print(" *" *i)
 
-stars = 9
+stras =4
 for i in range(0,stars+1):
     print(" *" *i)
+
+# stars = 9
+# for i in range(0,stars+1):
+#     print(" *" *i)
