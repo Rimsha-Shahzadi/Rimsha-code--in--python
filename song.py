@@ -151,14 +151,17 @@ for i in range(0,stars+1):
 stars = 8
 for i in range(0,stars+1):
     print(" *" *i)
+table = int(input("Enter a number:")) 
+for i in range(1,11): 
+    print(f"{table} x {i} = {table*i}")  
 
-stras =4
-for i in range(0,stars+1):
-    print(" *" *i)
-    
-stras =4
-for i in range(0,stars+1):
-    print(" *" *i)
+# stras =6
+# for i in range(0,stars+1):
+#     print(" *" *i)
+
+# stras =4
+# for i in range(0,stars+1):
+#     print(" *" *i)
 
 # stars = 9
 # for i in range(0,stars+1):
