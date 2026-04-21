@@ -167,6 +167,11 @@ for i in range(1,11):
 # for i in range(0,stars+1):
 #     print(" *" *i)
 
-strs = 3
+# strs = 3
+# for i in range(1,strs+1):
+#     print(" *" *i)
+
+strs = 5
 for i in range(1,strs+1):
     print(" *" *i)
+print("Rimsha Shahzadi")    
