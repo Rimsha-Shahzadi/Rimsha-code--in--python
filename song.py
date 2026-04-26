@@ -176,5 +176,7 @@ for i in range(1,11):
 #     print(" *" *i)
 # print("Rimsha Shahzadi")
 # print("Jannat Shahzadi")  
-print("Python")  
+print("Python")
+print("Sir Naveed")
+print("Typescript")
 
