@@ -179,4 +179,6 @@ for i in range(1,11):
 print("Python")
 print("Sir Naveed")
 print("Typescript")
+print("next.js")
+print("NTU")
 
