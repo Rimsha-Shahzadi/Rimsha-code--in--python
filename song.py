@@ -182,3 +182,8 @@ print("Typescript")
 print("next.js")
 print("NTU")
 
+print("Python")
+print("Sir Naveed")
+print("Typescript")
+print("next.js")
+print("NTU")
