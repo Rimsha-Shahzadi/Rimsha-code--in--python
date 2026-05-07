@@ -174,8 +174,10 @@ for i in range(1,11):
 # strs = 5
 # for i in range(1,strs+1):
 #     print(" *" *i)
-# print("Rimsha Shahzadi")
-# print("Jannat Shahzadi")  
+print("Rimsha Shahzadi")
+print("Jannat Shahzadi") 
+print("Fsd") 
+print("Python, typescript")
 print("Python")
 print("Python")
 print("Sir Naveed")
