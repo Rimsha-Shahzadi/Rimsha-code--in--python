@@ -6,3 +6,4 @@
 i = 1
 while i<= 10:
     print("Sorry Sir")
+    i+=1
