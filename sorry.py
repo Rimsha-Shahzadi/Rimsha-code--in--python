@@ -8,7 +8,12 @@
 #     print("Sorry Sir")
 #     i+=1
 # i
+# i = 1
+# while i<= 3:
+#     print("Sorry")
+#     i+=1
+
 i = 1
-while i<= 3:
+while i<= 1:
     print("Sorry")
-    i+=1
+    i+=1    
