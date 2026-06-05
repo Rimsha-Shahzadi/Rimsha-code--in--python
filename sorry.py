@@ -47,3 +47,5 @@ i=1
 while i<= 5:
     print("Sorry")
     i+=1
+print("Rimsha") 
+print("Shahzadi")   
