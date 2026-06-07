@@ -48,5 +48,11 @@ while i<= 5:
     print("Sorry")
     i+=1
 print("Rimsha") 
+print("Rimsha") 
+print("Rimsha") 
 print("Shahzadi") 
+print("Shahzadi") 
+print("Shahzadi") 
+print("sorry")  
+print("sorry")  
 print("sorry")  
