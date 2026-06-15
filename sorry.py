@@ -75,5 +75,12 @@ while i<=8:
     print("I Am Really Sorry")
     i+=1
 print("Punishment")
+print("Punishment")
+print("Punishment")
 print("Sunday")  
+print("Sunday")  
+print("Sunday")  
+print("Class")  
+print("Class")  
+print("Class")  
 print("Class")  
