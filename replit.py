@@ -255,9 +255,9 @@ print("Allah Hafiz")
 #     continue
 #   print("5 x", i + 1, "=", 5 * (i + 1))
 
-# def claculateGmean(a, b):
-#   mean = (a * b) / (a + b)
-#   print(mean)
+def claculateGmean(a, b):
+  mean = (a * b) / (a + b)
+  print(mean)
 
 # def isGreater(a, b):
 #   if (a > b):
