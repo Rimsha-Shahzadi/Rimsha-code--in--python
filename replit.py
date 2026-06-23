@@ -1,13 +1,13 @@
-"""Hey! Rimsha don't remove this code
-Author = Rimsha
-Course = Python"""
-'''print("Hey I am a /"good girl/"/nand, this viewer is also a good girl")'''
-print("Hello World")
-print("Hello World, Rim, Jim")
-print(23*89)
-print("Rimsha")
-print("Jannat")
-print("Allah Hafiz")
+# """Hey! Rimsha don't remove this code
+# Author = Rimsha
+# Course = Python"""
+# '''print("Hey I am a /"good girl/"/nand, this viewer is also a good girl")'''
+# print("Hello World")
+# print("Hello World, Rim, Jim")
+# print(23*89)
+# print("Rimsha")
+# print("Jannat")
+# print("Allah Hafiz")
 # print("Hello"[1:4])
 # dict = {'a': 1, 'b': 2}; print(dict['a'])
 # print({1, 2, 2, 3} - {2, 3})
@@ -254,10 +254,10 @@ print("Allah Hafiz")
 #     print("skip the iteration")
 #     continue
 #   print("5 x", i + 1, "=", 5 * (i + 1))
+# def claculateGmean(a, b):
+#   mean = (a * b) / (a + b)
+#   print(mean)
 
-def claculateGmean(a, b):
-  mean = (a * b) / (a + b)
-  print(mean)
 
 # def isGreater(a, b):
 #   if (a > b):
@@ -297,3 +297,7 @@ def claculateGmean(a, b):
 # print(marks[5])
 # print(marks[6])
 
+i = 1
+while i<=4:
+    print("Sorry, I am busy right now. Please call me later.")
+    i =+1
