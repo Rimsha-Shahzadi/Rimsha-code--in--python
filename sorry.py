@@ -70,18 +70,23 @@ print("sorry")
 #     print("I Am Really Sorry")
 #     i+1
 
+# i = 1
+# while i<=8:
+#     print("I Am Really Sorry")
+#     i+=1
+# print("Punishment")
+# print("Punishment")
+# # print("Punishment")
+# print("Sunday")  
+# print("Sunday")  
+# # print("Sunday")  
+# print("Class")  
+# print("Class")
+# print("Sir Naveed")  
+# print("Class")  
+# print("Class")  
+
 i = 1
-while i<=8:
+while i<=5:
     print("I Am Really Sorry")
     i+=1
-print("Punishment")
-print("Punishment")
-# print("Punishment")
-print("Sunday")  
-print("Sunday")  
-# print("Sunday")  
-print("Class")  
-print("Class")
-print("Sir Naveed")  
-# print("Class")  
-# print("Class")  

@@ -198,3 +198,7 @@ print("Sir Naveed")
 print("Typescript")
 print("next.js")
 print("NTU")
+
+strs = 4
+for i in range(1,strs+1):
+    print(" *")
