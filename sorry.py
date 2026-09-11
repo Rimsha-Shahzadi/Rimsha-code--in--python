@@ -17,21 +17,10 @@
 # while i<= 1:
 #     print("Sorry")
 #     i+=1    
-
-# i=5
-# while i<= 1:
-#     print("Sorry")
-#     i+=1  
-
-# i=1
-# while i<= 5:
-#     print("Sorry")
-#     i+=1 
-
-#  i=1
-# while i<= 5:
-#     print("Sorry")
-#     i+=1
+i = 1
+while i<=4:
+    print("Sorry")
+    i+=1
 
 # i=1
 # while i<= 5:
@@ -55,12 +44,12 @@ print("Rimsha")
 # print("Rimsha") 
 # print("Rimsha") 
 # print("Rimsha") 
-print("Shahzadi") 
 # print("Shahzadi") 
 # print("Shahzadi") 
 # print("Shahzadi") 
 # print("Shahzadi") 
-print("sorry")  
+# print("Shahzadi") 
+# print("sorry")  
 # print("sorry")  
 # print("sorry")  
 # print("sorry")  
@@ -86,7 +75,7 @@ print("sorry")
 # print("Class")  
 # print("Class")  
 
-i = 1
-while i<=5:
-    print("I Am Really Sorry")
-    i+=1
+# i = 1
+# while i<=5:
+#     print("I Am Really Sorry")
+#     i+=1
