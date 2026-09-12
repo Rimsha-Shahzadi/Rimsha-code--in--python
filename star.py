@@ -69,35 +69,9 @@
 n = 10
 for i in range(1, n+1):
     print("*" * i)
-#2
-n = 10
-for i in range(1, n+1):
-    print("  " * (n-i) + " *" * i)    
-#3
-n = 10
-for i in range(1, n+1):
-    print(" " * (n-i) + "* " * i) 
-#4
-n = 10
-for i in range(n, 0, -1):
-    print(" " * (n-i) + "* " * i)
-#5
-n = 10
-for i in range(1, n+1):
-    print(" " * (n-i) + "* " * i)
-for i in range(n-1, 0, -1):
-    print(" " * (n-i) + "* " * i)
-#6
-n = 10
-for i in range(1, n+1):
-    print("* " *n) 
-#7
-n = 10
-for i in range(1, n+1):
-    for j in range(1,i+1):
-        print(j, end=" ") 
-    print()          
-
+stars= 4
+for i in range(0,stars+1):
+     print(" *" *i)
 
 rows = 5
 for i in range(1, rows+1):

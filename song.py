@@ -31,12 +31,12 @@ for i in Naat:
     sys.stdout.write(i)
     sys.stdout.flush()
     time.sleep(0.2)
-# import sys, time
-# Naat = "\nMain B Rozy Rakhun Gha \n Ya Allah Taufeeq Dy"
-# for i in Naat:
-#     sys.stdout.write(i)
-#     sys.stdout.flush()
-#     time.sleep(0.2)
+import sys, time
+Naat = "\nMain B Rozy Rakhun Gha \n Ya Allah Taufeeq Dy"
+for i in Naat:
+    sys.stdout.write(i)
+    sys.stdout.flush()
+    time.sleep(0.2)
 
 # calculator = input("Enter a number: ")
 # print(eval(calculator))
@@ -163,6 +163,11 @@ for i in range(1,11):
 # for i in range(0,stars+1):
 #     print(" *" *i)
 
+
+
+stars = 9
+for i in range(0,stars+1):
+    print(" *" *i)
 # stars = 9
 # for i in range(0,stars+1):
 #     print(" *" *i)
@@ -174,30 +179,15 @@ for i in range(1,strs+1):
 strs = 5
 for i in range(1,strs+1):
     print(" *" *i)
-print("Rimsha Shahzadi")
+# print("Rimsha Shahzadi")
 print("Jannat Shahzadi") 
 print("Fsd") 
 print("Python, typescript")
-print("Python")
-print("Python")
-print("Sir Naveed")
-print("Sir Naveed")
-print("Typescript")
-print("Typescript")
-print("next.js")
-print("next.js")
-print("NTU")
-print("NTU")
-print("Sir Abu Huraira")
-print("Sir Abu Huraira")
-print("Zain Bhai")
-print("Zain Bhai")
+print("Prompt engineering")
+print("Skills")
 
-print("Python")
-print("Sir Naveed")
-print("Typescript")
-print("next.js")
-print("NTU")
+
+
 
 strs = 4
 for i in range(1,strs+1):
