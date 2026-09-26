@@ -50,15 +50,15 @@ for i in range(n,0, -1):
 #     print() 
 #    
  # Question 6
-# def lines():
-#     line= int(input("Enter a number of lines:"))
-#     for i in range(1,line+1):
-#         for j in range(i):
-#             print("*", end=" ")
-        # print() 
-    # return f"The {line} lines of  triangle has been created"  
-# triangle = lines()
-# print(triangle)
+def lines():
+    line= int(input("Enter a number of lines:"))
+    for i in range(1,line+1):
+        for j in range(i):
+            print("*", end=" ")
+        print() 
+    return f"The {line} lines of  triangle has been created"  
+triangle = lines()
+print(triangle)
 
 #Practice Problem 1
 # num = int(input("Enter a number to print a table:"))
