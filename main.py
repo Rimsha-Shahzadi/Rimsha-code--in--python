@@ -1,69 +1,69 @@
-# print("Hello Rimsha")
-# print(8+8)
-# # "Hello"[1:4]
-# import time
-# timestamp =time.strftime('%H:%M:%S')
-# print(timestamp)
-# timestamp =time.strftime('%H')
-# print(timestamp)
+print("Hello Rimsha")
+print(8+8)
+"Hello"[1:4]
+import time
+timestamp =time.strftime('%H:%M:%S')
+print(timestamp)
+timestamp =time.strftime('%H')
+print(timestamp)
 
-# timestamp =time.strftime('%M')
-# print(timestamp)
+timestamp =time.strftime('%M')
+print(timestamp)
 
-# timestamp =time.strftime('%S')
-# print(timestamp)
-# import time
-# timestamp =time.strftime('Good Morning:Good Afternoon:Good Night:')
-# print(timestamp)
-# timestamp =time.strftime('Good Morning Sir')
-# print(timestamp)
-# timestamp =time.strftime('Good Afternoon Sir')
-# print(timestamp)
-# timestamp =time.strftime('Good Night Sir')
-# print(timestamp)
+timestamp =time.strftime('%S')
+print(timestamp)
+import time
+timestamp =time.strftime('Good Morning:Good Afternoon:Good Night:')
+print(timestamp)
+timestamp =time.strftime('Good Morning Sir')
+print(timestamp)
+timestamp =time.strftime('Good Afternoon Sir')
+print(timestamp)
+timestamp =time.strftime('Good Night Sir')
+print(timestamp)
 
 
-# age =int(input("Enter your age: "))
-# if age >= 18:
-#   print("You can vote")
-# else:
-#   print("Sorry you cannot vote")  
+age =int(input("Enter your age: "))
+if age >= 18:
+  print("You can vote")
+else:
+  print("Sorry you cannot vote")  
 
-# students = ["Rimsha", "Jannat"]
-# name = students[0]  
-# print(name[0:3])
-# name = ("orange","Apple")
-# students += name
-# print(students)
+students = ["Rimsha", "Jannat"]
+name = students[0]  
+print(name[0:3])
+name = ("orange","Apple")
+students += name
+print(students)
 
-# students = ["Rimsha", "Jannat", "Teacher"]  # Initialize as a list
-# name = "Alice"
-# students.append(name)  # Add name to the list
-# print(students)  # ['Alice']
+students = ["Rimsha", "Jannat", "Teacher"]  # Initialize as a list
+name = "Alice"
+students.append(name)  # Add name to the list
+print(students)  # ['Alice']
 
 
     # Starts        
-    #                                  
-# print("Hello World")
+                                     
+print("Hello World")
 
-# This is a variable
-# a = 500
-# print(a)
+This is a variable
+a = 500
+print(a)
 
-# This is a variable
-# Instructor = "Rimsha"
-# print("Python by", Instructor, sep="--")
+This is a variable
+Instructor = "Rimsha"
+print("Python by", Instructor, sep="--")
 
-# Python as a calculator
-# print("5+5")
-# print(5+5)
+Python as a calculator
+print("5+5")
+print(5+5)
 
-# a = 20
-# b = 30
-# print(a+b)
-# print(a*b)
-# print(b/a)
-# print(a-b)
+a = 20
+b = 30
+print(a+b)
+print(a*b)
+print(b/a)
+print(a-b)
 
 # Variables
 # MyName = "Rimsha"
