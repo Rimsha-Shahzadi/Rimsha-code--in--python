@@ -89,3 +89,10 @@ calculator = input("Enter a number: ")
 print(eval(calculator))
 import calendar
 print(calendar.calendar(2026))
+
+
+
+calculator = input("Enter a number: ")
+print(eval(calculator))
+import calendar
+print(calendar.calendar(2026))
