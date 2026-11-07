@@ -1,18 +1,18 @@
-# names = ["Rimsha", "Ismail", "Jannat"]
-# print(names[1])
-# print(names[-2])
-# from typing import Any
-# names : list[Any] = ["Rimsha", "Ismail", "Jannat"]
-# print(names[0])
-# print(f"Founder of PIAIC {names[0].upper()}")
-# from typing import Any
-# tables : list[str] = [2,4,6,8,10,"Rimsha", True]
-# print(tables)
-# print(tables[2])
-# print(f"Founder of PIAIC {tables[-2].upper()}")
-# characters : list[str] = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
-# print(characters[::-1])
-# print(characters[1:-3])
+names = ["Rimsha", "Ismail", "Jannat"]
+print(names[1])
+print(names[-2])
+from typing import Any
+names : list[Any] = ["Rimsha", "Ismail", "Jannat"]
+print(names[0])
+print(f"Founder of PIAIC {names[0].upper()}")
+from typing import Any
+tables : list[str] = [2,4,6,8,10,"Rimsha", True]
+print(tables)
+print(tables[2])
+print(f"Founder of PIAIC {tables[-2].upper()}")
+characters : list[str] = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+print(characters[::-1])
+print(characters[1:-3])
 
 # names: list[str] = ["Rimsha", "Ismail", "Jannat"]
 # print(names)
