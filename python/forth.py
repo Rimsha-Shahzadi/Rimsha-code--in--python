@@ -37,7 +37,7 @@ print(names)
 names.remove("Ismail")
 names1 = names.sort()
 print(names)
-  try it yourself
+try it yourself
 names : list[str] = ["Rimsha", "Ismail", "Jannat", "Noor", "Eman", "Ayesha", "Fatima"]
 print(names)
 names1 = names.sort()
@@ -47,6 +47,9 @@ rimsha = ("Assalam U Alaikum, I am Rimsha")
 print(rimsha)
 print(len(rimsha))
 
+rimsha = ("Assalam U Alaikum, I am Rimsha")
+print(rimsha)
+print(len(rimsha))
 rimsha = ("Assalam U Alaikum, I am Rimsha")
 print(rimsha)
 print(len(rimsha))
