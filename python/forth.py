@@ -59,4 +59,8 @@ rimsha = ("Assalam U Alaikum, I am Rimsha")
 print(rimsha)
 print(len(rimsha))
 
+rimsha = ("Assalam U Alaikum, I am Rimsha")
+print(rimsha)
+print(len(rimsha))..
+
 
